@@ -8,7 +8,7 @@ Just to let you know this will be your personal reference book.
 
 You are going to have three GIT Repositories where you document your progress of the course.
 
-In this Repository we are gonna collect all information of the database classes. 
+In this Repository we are gonna collect all information of the Java classes. 
 
 I'm going to give you all reviews in the form of issues every week, where I'm going to review your documentary by the following criteria:
 - code quality
